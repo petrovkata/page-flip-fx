@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+	<slideshow>
+		<page>
+			<photo image="images/nature/01.jpg" url="http://www.flashxml.net" target="_blank" ></photo>
+		</page>
+		<page>
+			<photo image="images/nature/02.jpg" url="http://www.flashxml.net" target="_blank" media="video/green.flv" mediaImage="video/green.jpg" skin="videoSkin2.xml" width="230" height="172" position="CC" paddingH="0" paddingV="0" autoplay="false" displayOn="rightPage"></photo>
+		</page>
+		<page>
+			<photo image="images/nature/particles.swf" url="http://www.flashxml.net" target="_blank"></photo>
+		</page>
+		<page>
+			<photo image="images/nature/04.jpg" url="http://www.flashxml.net" target="_blank"></photo>
+			<photo image="images/nature/05.png" url="http://www.flashxml.net" target="_blank"></photo>
+		</page>
+		<page>
+			<photo image="images/nature/06.png" url="http://www.flashxml.net" target="_blank"></photo>
+			<photo image="images/nature/07.jpg" url="http://www.flashxml.net" target="_blank"></photo>
+		</page>
+		<page>
+			<photo image="images/nature/08.jpg" url="http://www.flashxml.net" target="_blank"></photo>
+		</page>
+		<page>
+			<photo image="images/nature/09.jpg" url="http://www.flashxml.net" target="_blank" media="video/fantasy.flv" mediaImage="video/fantasy.jpg" skin="videoSkin1.xml" width="230" height="172" position="TC" paddingH="0" paddingV="20" autoplay="true" displayOn="leftPage"></photo>
+		</page>
+		<lastpage>
+			<photo image="images/nature/10.jpg" url="http://www.flashxml.net" target="_blank" ></photo>
+		</lastpage>
+	</slideshow>
+</settings>
