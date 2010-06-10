@@ -17,11 +17,11 @@ You can integrate it in any website for free without even using Flash. It's a fu
 
 Make sure your Wordpress version is equal or greater than 2.8 and your hosting provider is using PHP5.
 
-1. Upload the `page-flip-fx` directory along with all its files to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Upload the `page-flip-fx` folder along with all its subfolders and files to the `/wp-content/plugins/` folder
+2. Activate the plugin from the **Plugins** menu in WordPress Dashboard
 3. In the post editor use the following tag to embed the Page Flip: `[page-flip-fx][/page-flip-fx]`. Or add `<?php pageflipfx_echo_embed_code(); ?>` in your templates
 4. Go to [FlashXML.net](http://www.flashxml.net/ "Free Flash Components") and [customize your Page Flip](http://www.flashxml.net/page-flip.html "Page Flip") using the Live Demo. Generate the `settings.xml` text and use it to overwrite `page-flip-fx/component/settings.xml`
-5. To use your own images, upload them to the `page-flip-fx/component/images` directory and update the `page-flip-fx/component/images.xml` file accordingly
+5. To use your own images, upload them to the `page-flip-fx/component/images` folder and update the `page-flip-fx/component/images.xml` file accordingly
 
 = Additional settings file =
 
