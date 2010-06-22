@@ -2,7 +2,7 @@
 Contributors: flashxml
 Tags: images, photos, widget, post, plugin, posts, sidebar, page, flip, flipper, pageflipper, free, flash, as3, image, effect, animation, effects, text, xml, photo, slideshow, auto, scroll, scrollbar, tween
 Requires at least: 2.8.0
-Tested up to: 2.9.2
+Tested up to: 3.0
 Stable tag: trunk
 
 == Description ==
