@@ -23,8 +23,8 @@ Make sure your Wordpress version is greater than 2.8 and your hosting provider i
 4. Activate the plugin from the **Plugins** tab in **WordPress Dashboard**
 5. Go to **Page Flip FX** from the **Settings** tab and update the path in case you used a different one
 6. In the post editor use the following tag to embed the Page Flip FX: `[page-flip-fx][/page-flip-fx]`. You could also add `<?php pageflipfx_echo_embed_code(); ?>` in the PHP file of your theme
-7. Go to [FlashXML.net](http://www.flashxml.net/ "Free Flash Components") and [customize your Page Flip FX](http://www.flashxml.net/page-flip.html "Page Flip FX") using the Live Demo. Generate the `settings.xml` text and use it to overwrite `flashxml/pageflipfx/settings.xml`
-8. To use your own images, upload them to the `flashxml/pageflipfx/images` folder and update the `flashxml/pageflipfx/images.xml` file accordingly
+7. Go to [FlashXML.net](http://www.flashxml.net/ "Free Flash Components") and [customize your Page Flip FX](http://www.flashxml.net/page-flip.html "Page Flip FX") using the Live Demo. Generate the `settings.xml` text and use it to overwrite `flashxml/page-flip-fx/settings.xml`
+8. To use your own images, upload them to the `flashxml/page-flip-fx/images` folder and update the `flashxml/page-flip-fx/images.xml` file accordingly
 
 = Additional settings file =
 
