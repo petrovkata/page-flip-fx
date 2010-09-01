@@ -36,14 +36,10 @@ License: GPL2
 				$height = (int)$data->General_Properties->height->attributes()->value;
 			}
 		} elseif ((int)$pageflipfx_attributes[4] > 0 && (int)$pageflipfx_attributes[6] > 0) {
-			$width = $pageflipfx_attributes[4];
-			$height = $pageflipfx_attributes[6];
+			$width = (int)$pageflipfx_attributes[4];
+			$height = (int)$pageflipfx_attributes[6];
 		} else {
 			return '<!-- invalid Page Flip FX width and / or height -->';
-		}
-
-		if ($width == 0 || $height == 0) {
-			return '';
 		}
 
 		$swf_embed = array(
