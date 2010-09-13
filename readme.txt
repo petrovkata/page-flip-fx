@@ -5,11 +5,9 @@ Requires at least: 2.8.0
 Tested up to: 3.0.1
 Stable tag: trunk
 
-== Description ==
-
 One of the most advanced Page Flip. Completely XML customizable, without using Flash. And it's free!
 
-= Main features =
+== Description ==
 
 You can integrate it in any website for free without even using Flash. It's a fully skinnable and customizable page flipper with different shadow gradients, alpha and colors. It has a completely skinnable control bar through the skin.xml file. Supports SWFs and multiple types of images (JPG, PNG, BMP, GIF). You can have additional animated text with lots of animation and positioning properties and the text is CSS customizable. Slideshow can be enabled (auto flipping) with different page flipping types and durations. Flipping sounds can be optionally added through external mp3. You can enter in zoom mode or you can go to an URL when clicking on a page.
 

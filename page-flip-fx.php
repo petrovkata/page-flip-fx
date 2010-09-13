@@ -3,7 +3,7 @@
 Plugin Name: Page Flip FX
 Plugin URI: http://www.flashxml.net/page-flip.html
 Description: One of the most advanced Page Flip. Completely XML customizable, without using Flash. And it's free!
-Version: 0.2.4
+Version: 0.2.5
 Author: FlashXML.net
 Author URI: http://www.flashxml.net/
 License: GPL2
