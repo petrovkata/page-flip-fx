@@ -2,7 +2,7 @@
 /*
 Plugin Name: Page Flip FX
 Plugin URI: http://www.flashxml.net/page-flip.html
-Description: One of the most advanced Page Flip. Completely XML customizable, without using Flash. And it's free!
+Description: An advanced Page Flip. Completely XML customizable without any Flash knowledge. And it's free!
 Version: 0.2.7
 Author: FlashXML.net
 Author URI: http://www.flashxml.net/
@@ -45,9 +45,9 @@ License: GPL2
 		$swf_embed = array(
 			'width' => $width,
 			'height' => $height,
-			'text' => trim($pageflipfx_attributes[7]),
+			'text' => isset($pageflipfx_attributes[7]) ? trim($pageflipfx_attributes[7]) : '',
 			'component_path' => WP_CONTENT_URL . "/{$plugin_dir}/",
-			'swf_name' => 'pageflipper.swf',
+			'swf_name' => 'PageFlipFX.swf',
 		);
 		$swf_embed['swf_path'] = $swf_embed['component_path'].$swf_embed['swf_name'];
 
