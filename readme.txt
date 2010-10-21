@@ -37,7 +37,7 @@ To make it work with PHP4, add `[page-flip-fx width="600" height="300"][/page-fl
 
 = Getting rid of the FlashXML.net label =
 
-To remove the FlashXML.net label from the top-left corner you'll need to buy the [commercial archive](http://www.flashxml.net/page-flip.html#swmi-license "Page Flip FX"). Once you'll do that, simply use the SWF file from the commercial archive to overwrite the SWF file from the `wp-content/flashxml/page-flip-fx/` folder.
+To remove the FlashXML.net label from the top-left corner you'll need to buy the [paid package](http://www.flashxml.net/page-flip.html "Page Flip FX"). Once you'll do that, simply use the SWF file from the paid package to overwrite the SWF file from the `wp-content/flashxml/page-flip-fx/` folder.
 
 == Screenshots ==
 
