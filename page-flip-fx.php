@@ -128,6 +128,8 @@ License: GPL2
 	add_filter('the_content', 'pageflipfx_filter_content');
 	add_action('init', 'pageflipfx_load_swfobject_lib');
 	add_action('admin_menu', 'pageflipfx_admin_menu');
+	
+	add_shortcode('page-flip-fx', 'fxpageflip_get_embed_code');
 /* end hooks */
 
 ?>
